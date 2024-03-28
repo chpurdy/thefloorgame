@@ -1,0 +1,23 @@
+Primitives 
+Arithmetic
+Using Objects
+If Statements
+Boolean Expressions
+For loops
+While loops
+Nested for loops
+Writing classes
+Arrays
+Traversing Arrays
+ArrayLists
+Searching Algorithms
+Sorting Algorithms
+2D Arrays
+Inheritance
+Polymorphism
+Recursion
+DeMorgan's Law
+ArrayList Traversal
+Math class 
+Strings
+String Methods
